@@ -1,0 +1,8 @@
+attrs==20.3.0
+jsonschema==3.2.0
+numexpr==2.7.1
+numpy==1.19.4
+pyrsistent==0.17.3
+simpletable==0.2.2
+six==1.15.0
+tables==3.6.1
